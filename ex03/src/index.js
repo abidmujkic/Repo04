@@ -1,8 +1,8 @@
 function main() {
     var myRes = 16
-    myRes++;
-    // Only change code below this line
     
+    // Only change code below this line
+    myRes--;
     // Only Change code above this line
     
     return myRes;
