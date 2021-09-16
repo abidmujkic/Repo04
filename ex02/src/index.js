@@ -1,7 +1,9 @@
 function main() {
     var myRes = 75;
-    myRes++;
+    
     // Only change code below this line
+    
+    myRes++;
     
     // Only Change code above this line
     
