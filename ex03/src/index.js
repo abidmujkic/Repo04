@@ -1,9 +1,10 @@
 function main() {
-    var myRes = 16;
+    var myRes = 16
+    myRes++;
     // Only change code below this line
     
     // Only Change code above this line
-    myRes = --myRes;
+    
     return myRes;
 }
 console.log(main());
